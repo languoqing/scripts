@@ -1,0 +1,34 @@
+D:\python34\python.exe D:/Users/ex-languoqing600/PycharmProjects/untitled/python-selenium/beforGame.py
+{'expiry': 1530086128.95085, 'value': '65ec1a498ca95a019817f61157ad6a326c195509', 'name': 'YOUXISID', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1532591728.95094, 'value': '3872', 'name': 'appId', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1538639728.95096, 'value': 'a%3A1%3A%7Bi%3A0%3Bi%3A3872%3B%7D', 'name': 'gameHistoryRecord', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1530003328.95099, 'value': '%2F%3Fact%3Dgame_crazystuck', 'name': 'tExchangeBacToGame', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1561535730, 'value': '1529999730', 'name': 'Hm_lvt_be49684f9d9c2de3c96227f9e25c261b', 'path': '/', 'secure': False, 'domain': '.9test64-wap.stg3.1768.com'}
+{'value': '1529999730', 'secure': False, 'path': '/', 'name': 'Hm_lpvt_be49684f9d9c2de3c96227f9e25c261b', 'domain': '.9test64-wap.stg3.1768.com'}
+{'value': '%7B%7D', 'secure': False, 'path': '/', 'name': 'muteState', 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1561535730, 'value': '1529999731', 'name': 'Hm_lvt_70e5a3dba732ce8be082655aff6ff1e6', 'path': '/', 'secure': False, 'domain': '.9test64-wap.stg3.1768.com'}
+{'value': '1529999731', 'secure': False, 'path': '/', 'name': 'Hm_lpvt_70e5a3dba732ce8be082655aff6ff1e6', 'domain': '.9test64-wap.stg3.1768.com'}
+{'expiry': 1532591734, 'value': '1481798531', 'name': 'td_cookie', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1530604541.84546, 'value': 'a0m4nqnniigb5fnhpi4244uoc6', 'name': 'PHPSESSID', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1530086141.84553, 'value': '0', 'name': 'is_visitor', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'expiry': 1530028800.41737, 'value': '2037596098', 'name': 'point_games_flag_v9_game_crazystuck_5252037596098', 'path': '/', 'secure': False, 'domain': '9test64-wap.stg3.1768.com'}
+{'value': '%2F%3Fact%3Dact_rank_1806%26showFootBar%3D1%26showFootBarIndex%3D1%26st%3Dmain%26goUrl%3D%3Fact%3Dgame_crazystuck', 'secure': False, 'path': '/', 'name': 'loginReturnUrl', 'domain': '9test64-wap.stg3.1768.com'}
+
+
+
+
+{'expiry': 1530088229.33903, 'path': '/', 'secure': False, 'name': 'YOUXISID', 'domain': '9test64-wap.stg3.1768.com', 'value': '44e3931b198f9dadcd6ad9aafe69b775fa6f96d6'}
+{'expiry': 1532593829.3392901, 'path': '/', 'secure': False, 'name': 'appId', 'domain': '9test64-wap.stg3.1768.com', 'value': '3872'}
+{'expiry': 1538641829.33934, 'path': '/', 'secure': False, 'name': 'gameHistoryRecord', 'domain': '9test64-wap.stg3.1768.com', 'value': 'a%3A1%3A%7Bi%3A0%3Bi%3A3872%3B%7D'}
+{'expiry': 1530005429.3393798, 'path': '/', 'secure': False, 'name': 'tExchangeBacToGame', 'domain': '9test64-wap.stg3.1768.com', 'value': '%2F%3Fact%3Dgame_crazystuck'}
+{'name': 'muteState', 'domain': '9test64-wap.stg3.1768.com', 'value': '%7B%7D', 'path': '/', 'secure': False}
+{'expiry': 1561537831, 'path': '/', 'secure': False, 'name': 'Hm_lvt_70e5a3dba732ce8be082655aff6ff1e6', 'domain': '.9test64-wap.stg3.1768.com', 'value': '1530001831'}
+{'name': 'Hm_lpvt_70e5a3dba732ce8be082655aff6ff1e6', 'domain': '.9test64-wap.stg3.1768.com', 'value': '1530001831', 'path': '/', 'secure': False}
+{'expiry': 1561537831, 'path': '/', 'secure': False, 'name': 'Hm_lvt_be49684f9d9c2de3c96227f9e25c261b', 'domain': '.9test64-wap.stg3.1768.com', 'value': '1530001831'}
+{'name': 'Hm_lpvt_be49684f9d9c2de3c96227f9e25c261b', 'domain': '.9test64-wap.stg3.1768.com', 'value': '1530001831', 'path': '/', 'secure': False}
+{'expiry': 1532593834, 'path': '/', 'secure': False, 'name': 'td_cookie', 'domain': '9test64-wap.stg3.1768.com', 'value': '1482008577'}
+{'expiry': 1530606642.35354, 'path': '/', 'secure': False, 'name': 'PHPSESSID', 'domain': '9test64-wap.stg3.1768.com', 'value': 'hdqgibrcamuiujpqkhmrv47lt7'}
+{'expiry': 1530088242.3536599, 'path': '/', 'secure': False, 'name': 'is_visitor', 'domain': '9test64-wap.stg3.1768.com', 'value': '0'}
+{'expiry': 1530028800.7167199, 'path': '/', 'secure': False, 'name': 'point_games_flag_v9_game_crazystuck_5252037596098', 'domain': '9test64-wap.stg3.1768.com', 'value': '2037596098'}
+{'name': 'loginReturnUrl', 'domain': '9test64-wap.stg3.1768.com', 'value': '%2F%3Fact%3Dact_rank_1806%26showFootBar%3D1%26showFootBarIndex%3D1%26st%3Dmain%26goUrl%3D%3Fact%3Dgame_crazystuck', 'path': '/', 'secure': False}
+
